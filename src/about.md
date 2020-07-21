@@ -4,7 +4,7 @@ title: 关于
 slug: about
 date: 2017/06/28 17:26:00
 status: publish
-author: AlanDecode
+author: Catyo
 categories: 
   - Maverick
   - Dev
@@ -17,6 +17,6 @@ tags:
 
 ## Contact
 
-Email: hi#imalan.cn (replace # with @)
+Email: 1548589898#qq.com (replace # with @)
 
-Telegram：[AlanDecode](https://t.me/alandecode)
+Telegram：[catyooo](https://t.me/lgtmd)
