@@ -15,8 +15,8 @@ template = {
     "branch": "latest"
 }
 enable_jsdelivr = {
-    "enabled": False,
-    "repo": ""
+    "enabled": True,
+    "repo": "catyooo/Blog-With-GitHub-Boilerplate@gh-pages"
 }
 
 # 站点设置
