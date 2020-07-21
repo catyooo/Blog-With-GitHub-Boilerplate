@@ -3,15 +3,16 @@
 """
 
 # For Maverick
-site_prefix = "/Blog-With-GitHub-Boilerplate/"
+site_prefix = "/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 template = {
-    "name": "Galileo",
-    "type": "local",
-    "path": "../Galileo"
+    "name": "Kepler",
+    "type": "git",
+    "url": "https://github.com/AlanDecode/Maverick-Theme-Kepler.git",
+    "branch": "latest"
 }
 enable_jsdelivr = {
     "enabled": False,
@@ -19,11 +20,11 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "我的个人博客"
-site_logo = "${static_prefix}logo.png"
+site_name = "猫鼬CAT-WIKI"
+site_logo = "https://cdn.jsdelivr.net/gh/catyooo/catyo-resources/img/cyapper/images.png"
 site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
+author = "Catyo"
+email = "1548589898@qq.com"
 author_homepage = "https://www.imalan.cn"
 description = "只坚持一种正义。我的正义。"
 key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
@@ -35,9 +36,9 @@ external_links = [
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "猫鼬的星球计划",
+        "url": "https://www.catyo.cn",
+        "brief": "猫鼬的星球计划主页。"
     }
 ]
 nav = [
@@ -61,17 +62,17 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/catyooo",
         "icon": "gi gi-github"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com/zhangccmmp",
         "icon": "gi gi-weibo"
     }
 ]
