@@ -36,7 +36,7 @@ external_links = [
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "猫鼬的星球计划",
+        "name": "NAVI 猫鼬の星球计划",
         "url": "https://www.catyo.cn",
         "brief": "猫鼬的星球计划主页。"
     }
