@@ -36,10 +36,24 @@ external_links = [
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "NAVI 猫鼬の星球计划",
+        "name": "猫鼬 NAVI",
         "url": "https://www.catyo.cn",
         "brief": "猫鼬的星球计划主页。"
-    }
+    },
+    {
+        "name": "猫鼬 API",
+        "url": "https://api.catyo.cn",
+        "brief": "猫鼬的API主页。"
+    },
+    {
+        "name": "猫鼬 PRISM",
+        "url": "https://prism.catyo.cn",
+        "brief": "猫鼬的PRISM主页。"
+    },
+    {
+        "name": "LBTSTO.",
+        "url": "https://www.libertystore.one",
+       
 ]
 nav = [
     {
