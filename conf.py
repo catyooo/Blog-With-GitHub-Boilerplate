@@ -53,7 +53,8 @@ external_links = [
     {
         "name": "LBTSTO.",
         "url": "https://www.libertystore.one",
-       
+        "brief": "猫鼬的LBTSTO自由商店。"
+    }
 ]
 nav = [
     {
