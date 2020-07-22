@@ -20,7 +20,7 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "猫鼬CAT-WIKI"
+site_name = "猫鼬-WIKI"
 site_logo = "https://cdn.jsdelivr.net/gh/catyooo/catyo-resources/img/cyapper/images.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "Catyo"
