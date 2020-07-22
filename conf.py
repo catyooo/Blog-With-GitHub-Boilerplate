@@ -79,6 +79,7 @@ social_links = [
 
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="icon" type="image/x-icon" href="https://upyun.catyo.cn/phvo/catyo-resources/img/cyapper/catyo32x32.ico" />
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
 '''
 
