@@ -41,17 +41,17 @@ external_links = [
         "brief": "猫鼬的星球计划主站。"
     },
     {
-        "name": "猫鼬 NAVI",
+        "name": "Catyo Navi",
         "url": "https://www.catyo.cn",
         "brief": "猫鼬的星球计划主页。"
     },
     {
-        "name": "猫鼬 API",
+        "name": "Catyo Api",
         "url": "https://api.catyo.cn",
         "brief": "猫鼬的API主页。"
     },
     {
-        "name": "猫鼬 PRISM",
+        "name": "Catyo Prism",
         "url": "https://prism.catyo.cn",
         "brief": "猫鼬的PRISM主页。"
     },
@@ -82,7 +82,7 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/",
+        "url": "https://twitter.com/HuXijin_GT",
         "icon": "gi gi-twitter"
     },
     {
