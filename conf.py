@@ -41,7 +41,7 @@ external_links = [
         "brief": "猫鼬的星球计划主站。"
     },
     {
-        "name": "工作室",
+        "name": "Navi",
         "url": "https://www.catyo.cn",
         "brief": "猫鼬工作室官网。"
     },
