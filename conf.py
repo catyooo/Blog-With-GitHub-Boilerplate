@@ -41,17 +41,17 @@ external_links = [
         "brief": "猫鼬的星球计划主站。"
     },
     {
-        "name": "Catyo Navi",
+        "name": "Navi",
         "url": "https://www.catyo.cn",
         "brief": "猫鼬的星球计划主页。"
     },
     {
-        "name": "Catyo Api",
+        "name": "Api",
         "url": "https://api.catyo.cn",
         "brief": "猫鼬的API主页。"
     },
     {
-        "name": "Catyo Prism",
+        "name": "Prism",
         "url": "https://prism.catyo.cn",
         "brief": "猫鼬的PRISM主页。"
     },
